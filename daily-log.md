@@ -4,3 +4,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 
 ## 2026-01-31
 - Started fresh repo for varied coding streaks.
+## 2026-01-31 (auto)
+- C: Pointer fun
+```c\nint *p;\n```
+
