@@ -1,28 +1,20 @@
-# Learning Hub
-
-My second repo for daily coding practice in Java, C, Python, and Oracle/SQL. 
-
-## About
-- Focus: Algorithms, low-level code, data scripts, DB queries.
-- Goal: Natural graph growth + real skills.
-
-## Daily Log
-See [daily-log.md](daily-log.md) for entries.
 ## Badges & Stats
 
-### LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/cmwrxh/)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Arial)](https://leetcode.com/cmwrxh/)
+### LeetCode (cmwrxh)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-cmwrxh-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116&labelColor=000000)](https://leetcode.com/u/cmwrxh/)
 
-### GitHub
-[![Streak](https://streak-stats.demolab.com/?user=cmwrxh&theme=dark)](https://git.io/streak-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=cmwrxh E&show_icons=true&theme=radical)](https://github.com/cmwrxh)
+<!-- Dynamic stats card – starts empty, fills as you solve problems -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/cmwrxh?theme=dark&font=IBM%20Plex%20Mono&border=0&radius=10)](https://leetcode.com/u/cmwrxh/)
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+*New profile – grinding daily problems in Java, Python, C, and SQL. Stats updating soon! 🚀*
 
-## Cool Visuals
-![Coding Motivation](https://example.com/coding-art.jpg)  <!-- Replace with real links below -->
+### GitHub (cmwrxh)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cmwrxh&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmwrxh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/cmwrxh)
+
+### Languages & Focus
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
