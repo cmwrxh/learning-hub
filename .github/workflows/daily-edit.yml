@@ -1,0 +1,38 @@
+name: Daily Auto Edit (Mon-Fri)
+
+on:
+  schedule:
+    - cron: '*/30 9-11 * * 1-5'   # Random-ish in 9-11 UTC window, Mon-Fri
+  workflow_dispatch:
+
+jobs:
+  edit-log:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Varied daily edit
+        run: |
+          TODAY=$(date '+%Y-%m-%d')
+          RAND=$((RANDOM % 4))
+          case $RAND in
+            0) MSG="Java: Algo practice"; SNIP='```java\nint sum = 0;\n```' ;;
+            1) MSG="C: Pointer fun"; SNIP='```c\nint *p;\n```' ;;
+            2) MSG="Python: List magic"; SNIP='```python\nlst = [1,2]\n```' ;;
+            3) MSG="Oracle: Query tune"; SNIP='```sql\nSELECT *\n```' ;;
+          esac
+          echo "## $TODAY (auto)" >> daily-log.md
+          echo "- $MSG" >> daily-log.md
+          echo "$SNIP" >> daily-log.md
+          echo "" >> daily-log.md
+
+      - name: Commit
+        run: |
+          git config user.name "Auto Bot"
+          git config user.email "actions@github.com"
+          git add daily-log.md
+          git commit -m "Auto edit: $MSG for $TODAY" || echo "No change"
+          git push
