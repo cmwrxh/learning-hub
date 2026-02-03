@@ -36,3 +36,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - C: Pointer fun
 ```c\nint *p;\n```
 
+## 2026-02-03 (auto)
+- Python: List magic
+```python\nlst = [1,2]\n```
+
