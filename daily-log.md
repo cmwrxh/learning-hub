@@ -48,3 +48,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - Oracle: Query tune
 ```sql\nSELECT *\n```
 
+## 2026-02-04 (auto)
+- Oracle: Query tune
+```sql\nSELECT *\n```
+
