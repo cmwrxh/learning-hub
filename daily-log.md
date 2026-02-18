@@ -172,3 +172,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - Java: Algo practice
 ```java\nint sum = 0;\n```
 
+## 2026-02-18 (auto)
+- Oracle: Query tune
+```sql\nSELECT *\n```
+
