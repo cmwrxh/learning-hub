@@ -240,3 +240,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - C: Pointer fun
 ```c\nint *p;\n```
 
+## 2026-02-25 (auto)
+- Java: Algo practice
+```java\nint sum = 0;\n```
+
