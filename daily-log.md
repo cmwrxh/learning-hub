@@ -392,3 +392,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - Oracle: Query tune
 ```sql\nSELECT *\n```
 
+## 2026-03-11 (auto)
+- C: Pointer fun
+```c\nint *p;\n```
+
