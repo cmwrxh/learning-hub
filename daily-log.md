@@ -448,3 +448,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - C: Pointer fun
 ```c\nint *p;\n```
 
+## 2026-03-17 (auto)
+- C: Pointer fun
+```c\nint *p;\n```
+
