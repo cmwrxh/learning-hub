@@ -648,3 +648,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - Python: List magic
 ```python\nlst = [1,2]\n```
 
+## 2026-04-09 (auto)
+- Oracle: Query tune
+```sql\nSELECT *\n```
+
