@@ -1100,3 +1100,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - Oracle: Query tune
 ```sql\nSELECT *\n```
 
+## 2026-07-24 (auto)
+- Python: List magic
+```python\nlst = [1,2]\n```
+
