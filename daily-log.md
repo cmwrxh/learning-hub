@@ -1372,3 +1372,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - Python: List magic
 ```python\nlst = [1,2]\n```
 
+## 2026-08-25 (auto)
+- Java: Algo practice
+```java\nint sum = 0;\n```
+
