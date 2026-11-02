@@ -1588,3 +1588,7 @@ Auto + manual notes on Java, C, Python, Oracle/SQL practice.
 - Java: Algo practice
 ```java\nint sum = 0;\n```
 
+## 2026-11-02 (auto)
+- C: Pointer fun
+```c\nint *p;\n```
+
